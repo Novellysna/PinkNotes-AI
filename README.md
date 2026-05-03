@@ -36,6 +36,7 @@
 ### Input Konten: Pengguna menulis isi catatan yang panjang (misalnya tentang analisis faktor manusia dalam aplikasi).
 
 <img width="717" height="1600" alt="WhatsApp Image 2026-05-03 at 13 48 05 (1)" src="https://github.com/user-attachments/assets/691712f7-ea90-45ef-8c00-138745bd5d56" />
+
 ### Setelah menekan "Buat Judul Otomatis" Hasil AI Backend Flask yang terintegrasi dengan Google Gemini AI akan memproses konten tersebut dan memberikan saran judul yang relevan, seperti "Analisis Faktor Manusia dalam Aplikasi", yang langsung mengisi kolom judul secara otomatis, Setelah judul terisi, pengguna dapat menekan tombol "Simpan". Catatan tersebut akan tersimpan ke dalam database lokal (SQLite) dan muncul di daftar catatan pada halaman utama.
 
 ## 🛠️ Ringkasan Teknologi yang Digunakan
