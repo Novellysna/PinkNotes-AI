@@ -39,10 +39,10 @@
 ### Setelah menekan "Buat Judul Otomatis" Hasil AI Backend Flask yang terintegrasi dengan Google Gemini AI akan memproses konten tersebut dan memberikan saran judul yang relevan, seperti "Analisis Faktor Manusia dalam Aplikasi", yang langsung mengisi kolom judul secara otomatis, Setelah judul terisi, pengguna dapat menekan tombol "Simpan". Catatan tersebut akan tersimpan ke dalam database lokal (SQLite) dan muncul di daftar catatan pada halaman utama.
 
 ## 🛠️ Ringkasan Teknologi yang Digunakan
-Frontend: Java (Android Studio).  
-Backend: Python (Flask) sebagai jembatan ke Google Gemini API.  
-API Lokasi: Fused Location Provider untuk deteksi wilayah.  
-Jaringan: Koneksi antara Android dan Backend menggunakan protokol HTTP (dengan konfigurasi network_security_config khusus untuk IP lokal).
+### Frontend: Java (Android Studio).  
+### Backend: Python (Flask) sebagai jembatan ke Google Gemini API.  
+### API Lokasi: Fused Location Provider untuk deteksi wilayah.  
+### Jaringan: Koneksi antara Android dan Backend menggunakan protokol HTTP (dengan konfigurasi network_security_config khusus untuk IP lokal).
 
 
 
