@@ -8,7 +8,6 @@
 ## 🚀 Alur Antarmuka (UI)
 ### Aplikasi PinkNotes dirancang dengan alur yang intuitif, mulai dari penyambutan pengguna hingga penggunaan kecerdasan buatan untuk efisiensi mencatat.
 
-## Screenshoot UI
 ## Splash Screen & Loading
 <img width="717" height="1600" alt="WhatsApp Image 2026-05-03 at 13 48 03" src="https://github.com/user-attachments/assets/bd012884-efdf-4058-86ed-a6830c3171f6" />
 
